@@ -1,0 +1,22 @@
+{
+    "name": "oauth2-token-exchange",
+    "version": "1.0.0",
+    "description": "Example OAuth2 token exchange flow using Node.js and JavaScript",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "watch": "nodemon server.js"
+    },
+    "keywords": [
+      "oauth2",
+      "token-exchange",
+      "authorization-code-flow",
+      "node.js",
+      "javascript"
+    ],
+    "author": "Trung Ly",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^0.27.2"
+    }
+  }
