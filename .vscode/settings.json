@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "propertymanagement"
-    ]
+    ],
+    "editor.inlineSuggest.showToolbar": "onHover"
 }
